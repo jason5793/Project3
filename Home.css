@@ -5,8 +5,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #c90808;
+    color: #aefe0d;
     text-align: center;
     padding: 1em;
 }
@@ -29,8 +29,8 @@ img {
 }
 
 cta-button {
-    background-color: #4CAF50;
-    color: #fff;
+    background-color: #00ed08;
+    color: #e80000;
     padding: 10px 20px;
     font-size: 16px;
     border: none;
@@ -55,8 +55,8 @@ nav li {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #ff1616;
+    color: #aeff00;
     text-align: center;
     padding: 1em;
     position: fixed;
